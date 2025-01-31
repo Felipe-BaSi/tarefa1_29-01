@@ -1,6 +1,6 @@
 # Projeto de Controle de LEDs com Temporizadores no Raspberry Pi Pico
 
-Este projeto faz parte de uma atividade educacional com o objetivo de ensinar a utilizar temporizadores no Raspberry Pi Pico. O código alterna entre três LEDs (verde, amarelo e vermelho) a cada 3 segundos e imprime uma mensagem no monitor serial a cada segundo.
+Este projeto faz parte de uma atividade educacional com o objetivo de aprender a utilizar temporizadores no Raspberry Pi Pico. O código alterna entre três LEDs (verde, amarelo e vermelho) a cada 3 segundos e imprime uma mensagem no monitor serial a cada segundo.
 
 ## Objetivo da Atividade
 
